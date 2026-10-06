@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "test": "echo \"Warning: No tests created yet.\""
+    "test": "echo \"Warning: No tests created yet.\""
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/spongebobbryant24/COMP3104/issues"
   },
-  "homepage": "https://github.com/spongebobbryant24/COMP3104#readme"
+  "homepage": "https://github.com/spongebobbryant24/COMP3104#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
